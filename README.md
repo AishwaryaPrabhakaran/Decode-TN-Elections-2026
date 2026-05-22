@@ -13,7 +13,7 @@ The focus was not political commentary, but fact-based analytical storytelling u
 
 ## Live Dashboard
 
-[Explore Lve Dashboard](YOUR_LINK_HERE)
+[Explore Lve Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGIzYjkyODYtNmU2NC00MDMwLTk4ZGQtNzY5NGNkN2YwZjkwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Key Questions Explored
 
